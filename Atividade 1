@@ -1,1 +1,4 @@
+#?How to create an empty and a full NumPy array?
+vazio = np.empty(3)
+print("\n\n", vazio)
 
