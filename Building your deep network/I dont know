@@ -1,0 +1,13 @@
+parameters = initialize_parameters(3,2,1)
+print("W1 = " + str(parameters["W1"]))
+print("b1 = " + str(parameters["b1"]))
+print("W2 = " + str(parameters["W2"]))
+print("b2 = " + str(parameters["b2"]))
+
+output:
+W1 = [[ 0.01624345 -0.00611756 -0.00528172]
+ [-0.01072969  0.00865408 -0.02301539]]
+b1 = [[0.]
+ [0.]]
+W2 = [[0.00419195 0.0068522 ]]
+b2 = [[0.]]
